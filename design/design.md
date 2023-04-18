@@ -35,12 +35,9 @@ At this time, the application will not function as a progressive web application
 
 ### User Interface - Main Page
 
-<center>
-
 ![Main User Interface](/design/img/main-page.png)<br />
 **Figure 1:** Main User Interface
 
-</center>
 The Main User interface displays the Mission Table and its associated Missions. The interface is divided into two section:
 
 - Mission Table and associated controls
@@ -68,7 +65,7 @@ The button above the mission cards with the die icon allows the user to randomly
 
 ### User Interface - Mission Table Builder Dialog
 
-![Mission Table Builder](/design/img/mission-table-builder.png)
+![Mission Table Builder](/design/img/mission-table-builder.png)<br />
 **Figure 2:** Mission Table Builder Dialog
 
 The Mission Table Builder dialog has the following controls:
@@ -99,7 +96,7 @@ At the bottom of the dialog are the _Cancel_ and _Save_ buttons. The _Cancel_ bu
 
 ### Mission Card
 
-![Mission Card](/design/img/mission-card.png)
+![Mission Card](/design/img/mission-card.png)<br />
 **Figure 3:** Mission Card Dialog
 
 The _Mission Card_ dialog displays all of the details of the mission. Clicking on the Edit button (document with a pencil icon), will allow the fields to be edited by the user. Likewise, clicking on the delete button (_trashcan_) will delete the mission and close the dialog.
