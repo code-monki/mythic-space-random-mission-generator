@@ -35,9 +35,12 @@ At this time, the application will not function as a progressive web application
 
 ### User Interface - Main Page
 
-![Main User Interface](/design/img/main-page.png)
+<center>
+
+![Main User Interface](/design/img/main-page.png)<br />
 **Figure 1:** Main User Interface
 
+</center>
 The Main User interface displays the Mission Table and its associated Missions. The interface is divided into two section:
 
 - Mission Table and associated controls
